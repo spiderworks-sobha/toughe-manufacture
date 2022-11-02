@@ -1,0 +1,49 @@
+{
+  "name": "toughie-vendor-manager",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "@vuelidate/core": "^2.0.0-alpha.44",
+    "@vuelidate/validators": "^2.0.0-alpha.31",
+    "ag-grid-community": "^28.1.1",
+    "ag-grid-vue3": "^28.1.1",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.1",
+    "bootstrap-vue-3": "^0.3.4",
+    "boxicons": "^2.1.4",
+    "browserify": "^17.0.0",
+    "click-outside-vue3": "^4.0.1",
+    "datatables.net-vue3": "^1.0.0",
+    "feather-icons": "^4.29.0",
+    "gridjs": "^5.1.0",
+    "gridjs-vue": "^5.0.2",
+    "izitoast": "^1.4.0",
+    "line-awesome": "^1.3.0",
+    "lodash.camelcase": "^4.3.0",
+    "maska": "^1.5.0",
+    "particles.vue3": "^2.3.1",
+    "simplebar": "^5.3.8",
+    "simplebar-vue3": "^0.2.0",
+    "v3confirm": "^1.1.1",
+    "vue": "^3.2.39",
+    "vue-feather": "^2.0.0",
+    "vue-remix-icons": "^2.0.3",
+    "vue-router": "^4.1.5",
+    "vue-sweetalert2": "^5.0.5",
+    "vue3-datepicker": "^0.3.4",
+    "vue3-gabe-daterange-picker": "^0.1.2",
+    "vue3-material-design-icons": "^5.0.2",
+    "vuex": "^4.0.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "sass": "^1.54.9",
+    "vite": "^3.0.9"
+  }
+}
